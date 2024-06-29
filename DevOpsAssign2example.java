@@ -1,4 +1,4 @@
-public class DevOpsAssign2Example
+public class DevOpsAssign2example
   {
     public static void main()
     {
